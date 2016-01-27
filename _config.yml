@@ -1,7 +1,7 @@
 name: Beyond Real
 favicon: null
-layout_spectrum: 0.8977055160794407
-typography_spectrum: 0.8387834331952035
+layout_spectrum: 0.03373
+typography_spectrum: 0.49428
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#0b1a21'
+    - '#224656'
+    - '#57a5c3'
+    - '#4486a0'
+    - '#8fbbd9'
   brandStrength: 0.19746481883339584
   lightness: 0.493349980795756
   saturation: 0.987868484808132
